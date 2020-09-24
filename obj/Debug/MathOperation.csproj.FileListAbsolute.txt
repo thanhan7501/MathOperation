@@ -1,0 +1,7 @@
+E:\C#\MathOperation\bin\Debug\MathOperation.exe.config
+E:\C#\MathOperation\bin\Debug\MathOperation.exe
+E:\C#\MathOperation\bin\Debug\MathOperation.pdb
+E:\C#\MathOperation\obj\Debug\MathOperation.csprojAssemblyReference.cache
+E:\C#\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+E:\C#\MathOperation\obj\Debug\MathOperation.exe
+E:\C#\MathOperation\obj\Debug\MathOperation.pdb
